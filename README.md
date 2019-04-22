@@ -1,0 +1,2 @@
+# dubbo-mock-sprintboot
+两种方式（javasist或groovy）实现dubbo的动态服务挡板发布或注销,利用dubbo的ServiceConfig的export或unexport
